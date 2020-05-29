@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Permissions</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Clinics -->
+    <string name="title_activity_list">App Clinicas</string>
+    <string name="action_location">Location</string>
+
+    <!-- Clinics Item -->
+    <string name="title_clinic_item">Clínica San Juan de Dios de Cusco</string>
+    <string name="location_clinic_item">Manzanares</string>
+    <string name="phone_clinic_item">(084) 231340</string>
+    <string name="title_activity_map">MapActivity</string>
+</resources>
