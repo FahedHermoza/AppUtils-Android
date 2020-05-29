@@ -6,6 +6,7 @@
 - MVVM + ROOM + LIFECYCLE
 
     [x] Permission in Fragment
+    
     [x] Permission in Adapter with interface Handler
 
 ## Desarrollador
