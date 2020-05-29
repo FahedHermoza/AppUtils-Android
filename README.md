@@ -3,11 +3,9 @@
 
 # Implementation
 ### App Permissions
-- MVVM + ROOM + LIFECYCLE
-
-    [x] Permission in Fragment
-    
-    [x] Permission in Adapter with interface Handler
+MVVM + Room + Lifecycle
+- [x] Permission in Fragment
+- [x] Permission in Adapter with interface Handler
 
 ## Desarrollador
 **Si te sirvió** puedes darme manito arriba en mi [blog](https://www.facebook.com/fahedhermoza/).
