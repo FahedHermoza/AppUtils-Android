@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">HideAPIkey</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Facebook
+    <string name="facebook_application_id" translatable="false">551745000360889</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb551000025360889</string>
+     -->
+
+    <!-- APIKeys -->
+    <string name="title_activity_apikeys">APIKeysActivity</string>
+    <string name="facebook_title_activity_apikeys">FACEBOOK</string>
+    <string name="facebook_resValue_activity_apikeys">Recurso</string>
+    <string name="value_activity_apikeys">xxxxxxxxxx</string>
+    <string name="facebook_buildConfigField_activity_apikeys">Archivo BuildConfig</string>
+
+    <string name="google_maps_title_activity_apikeys">GOOGLE MAPS</string>
+    <string name="google_maps_resValue_activity_apikeys">Recurso</string>
+
+</resources>
