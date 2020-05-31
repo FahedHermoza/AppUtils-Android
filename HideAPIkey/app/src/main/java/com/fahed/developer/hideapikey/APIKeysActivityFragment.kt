@@ -8,7 +8,10 @@ import android.view.ViewGroup
 import kotlinx.android.synthetic.main.fragment_apikeys.*
 
 /**
- * A placeholder fragment containing a simple view.
+ * 1. Agregar API key:value a gradle.properties
+ * 2. Agregar una entrada a build.gradle (module: ) (2 tipos: file and value)
+ * 3. Eliminar gradle.properties para subirlo a github
+ *      $ echo 'gradle.properties' >> .gitignore
  */
 class APIKeysActivityFragment : Fragment() {
 
