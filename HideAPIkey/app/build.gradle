@@ -3,20 +3,10 @@ apply plugin: 'com.android.application'
 apply plugin: 'kotlin-android'
 
 apply plugin: 'kotlin-android-extensions'
-/*
-def API_KEY_FACEBOOK_APLICATION_ID = '"' + facebook_application_id + '"' ?: '"Configure API key"'
-def API_KEY_FACEBOOK_LOGIN_PROTOCOL_SCHEME = '"' + facebook_login_protocol_scheme + '"' ?: '"Configure API key"'
-*/
+
 def apikeyPropertiesFile = rootProject.file("apikey.properties")
 def apikeyProperties = new Properties()
 apikeyProperties.load(new FileInputStream(apikeyPropertiesFile))
-/*
-android.buildTypes.each { type ->
-    type.resValue 'string', 'API_KEY_FACEBOOK_APLICATION_ID', API_KEY_FACEBOOK_APLICATION_ID
-    type.resValue 'string', 'API_KEY_FACEBOOK_LOGIN_PROTOCOL_SCHEME', API_KEY_FACEBOOK_LOGIN_PROTOCOL_SCHEME
-    type.buildConfigField 'String', 'API_KEY_FACEBOOK_APLICATION_ID', API_KEY_FACEBOOK_APLICATION_ID
-    type.buildConfigField 'String', 'API_KEY_FACEBOOK_LOGIN_PROTOCOL_SCHEME', API_KEY_FACEBOOK_LOGIN_PROTOCOL_SCHEME
-}*/
 
 android {
     compileSdkVersion 29
