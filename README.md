@@ -14,12 +14,11 @@ Use gradle and put the API keys in an extern file.
 - [x] Ignore files in your repository remote
 
 ### App Service
-Use diferent type of Service
-- 
+Use diferent type of Service.
 - [x] Use of Intent Service + Broadcast Receiver 
-- [Code](https://www.facebook.com/fahedhermoza/).
+- [Code](https://github.com/FahedHermoza/AppUtils-Android/tree/master/Service/IntentService/ServicesAndroidCore).
 - [x] Use of Service.
-- [Code](https://www.facebook.com/fahedhermoza/).
+- [Code](https://github.com/FahedHermoza/AppUtils-Android/tree/master/Service/Service/ServicesAndroidCore).
 
 ## Desarrollador
 **Si te sirvió** puedes darme manito arriba en mi [blog](https://www.facebook.com/fahedhermoza/).
