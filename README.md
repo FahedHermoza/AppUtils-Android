@@ -20,7 +20,7 @@ Use diferent type of Service.
 - [x] Use of Service.
 - [Code](https://github.com/FahedHermoza/AppUtils-Android/tree/master/Service/Service/ServicesAndroidCore).
 
-### [App BluetoohAPI](https://github.com/FahedHermoza/AppUtils-Android/tree/master/HideAPIkey)
+### [App BluetoohAPI](https://github.com/FahedHermoza/AppUtils-Android/tree/master/BluetoohAPI/BluetoohArduinoAndroid)
 Sample basic of Bluetooth classic, no Bluetooth Low Energy (BLE).
 - [x] Use of paired deviced list + Bluetooh socket + Handler.
 
