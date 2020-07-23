@@ -20,9 +20,13 @@ Use diferent type of Service.
 - [x] Use of Service.
 - [Code](https://github.com/FahedHermoza/AppUtils-Android/tree/master/Service/Service/ServicesAndroidCore).
 
-### [App BluetoohAPI](https://github.com/FahedHermoza/AppUtils-Android/tree/master/BluetoohAPI/BluetoohArduinoAndroid)
-Sample basic of Bluetooth classic, no Bluetooth Low Energy (BLE).
-- [x] Use of paired deviced list + Bluetooh socket + Handler.
+### [App BluetoohAPI](https://github.com/FahedHermoza/AppUtils-Android/tree/master/HideAPIkey)
+Sample of Bluetooth classic, no Bluetooth Low Energy (BLE).
+- [x] Use of Paired Deviced list + Bluetooh socket + Handler.
+
+### [App Reverse Geocoding](https://github.com/FahedHermoza/AppUtils-Android/tree/master/Location/CiudadesDepartamento)
+Geocoding is the process of converting addresses (streets) to geographic coordinates (latitude, longitude), you can use it to place markers on a map or position on the map. There is also reverse geocoding.
+- [x] Use of Google Api Client + Geocoder + Easy Permissions.
 
 ## Desarrollador
 **Si te sirvió** puedes darme manito arriba en mi [blog](https://www.facebook.com/fahedhermoza/).
