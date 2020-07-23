@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CiudadesDepartamento</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_location">LocationActivity</string>
+    <string name="title_google_services_activity_location">GOOGLE LOCATION SERVICES </string>
+    <string name="title_permissions_activity_location">Iniciar</string>
+    <string name="title_latitude_activity_location">Latitud: </string>
+    <string name="title_longitude_activity_location">Longitud: </string>
+    <string name="title_value_default_activity_location">0 </string>
+    <string name="title_geocode_inverse_activity_location">GEOCODIFICION INVERSA - FIRST ADDRESS </string>
+    <string name="title_country_default_activity_location">Pais (Nombre/Codigo) </string>
+    <string name="title_deparment_default_activity_location">Departamento </string>
+    <string name="title_province_default_activity_location">Provincia</string>
+    <string name="title_distric_default_activity_location">Distrito </string>
+    <string name="title_address_default_activity_location">Dirección </string>
+    <string name="title_sublocality_default_activity_location">Sub-Localidad </string>
+    <string name="title_postal_code_default_activity_location">Codigo postal </string>
+    <string name="need_permissions_introduction">Esta aplicación necesita permiso de ubicación (GPS).</string>
+    <string name="without_permissions_introduction">Sin los permisos requeridos no podra realizar un correcto uso de la app.</string>
+
+</resources>
