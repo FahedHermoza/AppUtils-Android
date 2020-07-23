@@ -8,10 +8,18 @@ MVVM + Room + Lifecycle
 - [x] Permission in Adapter with interface Handler
 
 ### [App HideAPIkey](https://github.com/FahedHermoza/AppUtils-Android/tree/master/HideAPIkey)
-Use of gradle and put the API keys in an extern file.
+Use gradle and put the API keys in an extern file.
 - [x] Use of BuildConfigField
 - [x] Use of resValue
 - [x] Ignore files in your repository remote
+
+### App Service
+Use diferent type of Service
+- 
+- [x] Use of Intent Service + Broadcast Receiver 
+- [Code](https://www.facebook.com/fahedhermoza/).
+- [x] Use of Service.
+- [Code](https://www.facebook.com/fahedhermoza/).
 
 ## Desarrollador
 **Si te sirvió** puedes darme manito arriba en mi [blog](https://www.facebook.com/fahedhermoza/).

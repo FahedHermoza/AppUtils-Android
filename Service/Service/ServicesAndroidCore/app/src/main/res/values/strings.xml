@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IntentService-AndroidCore</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="button_serive_one_main_activity">IntentService</string>
+    <string name="button_serive_two_main_activity">Service</string>
+
+</resources>
